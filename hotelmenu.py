@@ -1,3 +1,8 @@
+"""
+This project is a simple restaurant ordering system implemented in Python. It allows users to order food items from a predefined menu,
+calculates the total bill, and displays the final amount to be paid. The system is interactive and ensures a smooth orderingprocess with
+basic input validation.
+"""
 menu={
     'Pizza':40,
     'Pasta':50,
